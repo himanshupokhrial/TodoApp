@@ -1,3 +1,5 @@
+A Todo Application developed using React that helps users manage their daily tasks efficiently. Users can add, edit, delete, and mark tasks as completed. The application provides a simple and user-friendly interface for organizing activities.
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
